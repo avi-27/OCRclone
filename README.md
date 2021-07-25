@@ -3,8 +3,9 @@ This is the OCR repo with bold/unbold feature
 
 ## To Run:
 - Download Zip
-- cd FramWork
+- cd FrameWork
 - qmake qpadfinal.pro
+- chmod +x qpadfinal
 - ./qpadfinal
 
 ## Features
